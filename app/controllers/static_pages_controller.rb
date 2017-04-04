@@ -5,6 +5,18 @@ class StaticPagesController < ApplicationController
   def cabinet
   end
 
+  def acces
+  end
+
+  def horaires
+  end
+
+  def info_pratiques
+  end
+
+  def salles_de_soins
+  end
+
   def equipe
   end
 
