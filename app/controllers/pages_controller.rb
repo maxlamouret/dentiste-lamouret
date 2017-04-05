@@ -17,7 +17,6 @@ class PagesController < ApplicationController
   def salles_de_soins
   end
 
-
   def equipe
   end
 
